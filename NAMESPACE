@@ -1,0 +1,6 @@
+import(data.table)
+import(rjson)
+
+exportPattern("^[[:alpha:]]+")
+
+## This looks so sparse and amateurish...
